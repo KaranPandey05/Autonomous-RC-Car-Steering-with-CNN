@@ -16,3 +16,13 @@ To optimize the dataset, I collected multiple sets of data on different track co
 During this process, I faced challenges with data collection in the simulator. When collecting data on a track, like the one shown in Figure 1, featuring excessively sharp hairpins and turns, the PiCar would go off the track during data collection, corrupting the dataset. To address this, I found it effective to collect data on the simulated track presented in Figure 2. This track features reasonably sharp turns that the car could navigate without difficulty during data collection. Additionally, I incorporated straightaways, wide turns, and chicanes into the track design to prepare the model for a variety of elements it might encounter. This balanced approach to data collection resulted in a model that performed consistently across different simulated tracks during testing, and later on real-world tracks when deployed
 
 ![A screenshot of the application](images/figure1.png)
+![A screenshot of the application](images/figure2.png)
+
+![A screenshot of the application](images/figure_3.png)
+
+![A screenshot of the application](images/figure_4.png)
+
+![A screenshot of the application](images/figure5.png)
+
+![A screenshot of the application](images/Figure6.png)
+
